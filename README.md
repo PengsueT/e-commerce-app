@@ -18,7 +18,11 @@ Once the server is running, you can use an API client like Insomnia to test the 
 
 ## Videos
 
+[GET all products, categories, and tags](https://drive.google.com/file/d/11r-wlPR_8iz6yDqB1_LtGCgScbAyJ9FD/view)
 
+[GET single product, category, and tag](https://drive.google.com/file/d/1V_02eqsD58blJRhBW8JQ_CEpalIXDAxn/view)
+
+[Create, Update, and Delete](https://drive.google.com/file/d/1UlGBAj7lh6HvhXdNByKYFdydn6MLNNMH/view)
 
 ## Credits
 
